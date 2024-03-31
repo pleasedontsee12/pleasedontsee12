@@ -4,7 +4,7 @@
 
 # 🦁HyungJu Chae👑
 ### I'm HyungJu Chae, Welcome to my page!
-<img src = "images/lion-king-simba.gif">
+<img src = "profile/images/lion-king-simba.gif">
 
 ##  📚I’m learning ...
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <!--c tag-->
