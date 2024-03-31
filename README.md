@@ -15,4 +15,4 @@
 <a href = "https://www.acmicpc.net/user/liehtr102"><img alt="BOJ" src ="https://img.shields.io/badge/Beakjoon-181717.svg?&style=for-the-badge&logo=deutschebank&logoColor=white"/></a> <!--BOJ profile tag-->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleasedontsee12&layout=compact) <!--language ratio--># pleasedontsee12
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleasedontsee12&layout=compact) <!--language ratio-->
